@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome to my Repository!
+🌱 I’m currently learning how to develop for Salesforce! I have no prior experience and I love to learn so these next few months should be alot of fun!
 <!--
 **kristiesbrown/kristiesbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
